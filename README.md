@@ -1,5 +1,11 @@
-# Tên dự án
-Mô tả ngắn: app này làm gì.
+# Tip Jar
+Mô tả ngắn: 
+Người dùng kết nối ví (MetaMask hoặc ví browser bất kỳ)
+Chọn số tiền muốn tip — có 4 nút preset ($0.01, $0.05, $0.10, $0.25) hoặc tự nhập
+Viết lời nhắn kèm theo (tuỳ chọn)
+Bấm Allow — cho phép contract dùng USDC của bạn (bước approve ERC-20)
+Bấm Send tip — gửi USDC thẳng đến ví creator onchain
+Nhận link explorer để xem giao dịch đã được ghi vào blockchain
 
 - Mạng: Arc Testnet
 - Địa chỉ contract: 0x3fc3e8806CdE6CB7165e55F91FC9e9467CC2273D
